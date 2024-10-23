@@ -11,5 +11,5 @@
 
 ## QUESTION 4 [CHALLENGE QUESTION]
 * [script source code](lab4_q4.sh)
-![lab 4 chq](challenge_q4_script.png)
+![lab 4 chq](lab4_q4.png)
 
