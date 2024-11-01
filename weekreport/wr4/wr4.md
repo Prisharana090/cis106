@@ -1,10 +1,13 @@
----
-name: Prisha Rana
-assignment: week report 4
-course: cis106
-semester: fall 24
+-
+Name: Prisha Rana
 
----
+Assignment: week report 4
+
+Course: cis106
+
+Semester: fall 24
+
+-----
 
 ## WEEK REPORT 4
 
