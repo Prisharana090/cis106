@@ -1,4 +1,4 @@
-# NOTES 5 
+# NOTES 4 
 ## File system
 - Description =  The method and structure used to store and organize files on a disk. It defines how data is stored and retrieved, allowing users to create, delete, and manage files and directories.
 - usage =  It is used to manage files and directories, providing a hierarchical structure for data organization. Linux uses the hierarchical directory structure (the one that looks like tree.)
