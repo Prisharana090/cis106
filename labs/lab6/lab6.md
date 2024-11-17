@@ -1,4 +1,4 @@
-# NOTES 6
+# Lab 6
 
 ## QUESTION 1 
 ![q1](lab6-p1.png)
