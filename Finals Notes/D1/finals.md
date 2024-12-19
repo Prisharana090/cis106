@@ -15,7 +15,7 @@
 
 
 ## To clone git repository 
-`clone HTTPs Link` 
+`git clone HTTPs Link` 
 
 # lab 3 notes 
 _____________________________________________________________________
@@ -35,6 +35,7 @@ _____________________________________________________________________
 ![shell script](shell-s.png)
 #### Getting help 
 `man echo` exit? `q`
+ex `read -p "what is name" name`
 
 
 
@@ -83,6 +84,80 @@ ls =	list files inside a given directory
 - Go to 2 directories above the directory tree
 
     `cd ../../`
+
+# CAT 
+![cat](cat1.png)
+![cat](cat(ex).png)
+# TAC
+![TAC](tac.png)
+# HEAD 
+![HEAD](head.png)
+![HEAD](head(ex).png)
+# TAIL
+![TAIL](tail.png)
+![TAIL](tail(ex).png)
+# CUT 
+![CUT](cut.png)
+![CUT](cut(1).png)
+![CUT](cut(2).png)
+![CUT](cut(3).png) 
+![CUT](cut(4).png) 
+# PASTE 
+![PASTE](paste.png)
+# SORT 
+![SORT](sort.png)
+![SORT](sort(2).png)
+# WC
+![WC](wc.png)
+
+# TR
+![TR](tr.png) 
+
+# DIFF
+![DIFF](diff.png)
+# GREP 
+![GREP](grep.png)
+![GREP](grep(1).png)
+![GREP](grep(ex).png)
+![GREP](grep(ex2).png)
+![GREP](grep(ex3).png)
+![GREP](grep(ex4).png)
+
+# AWK
+![awk](awk.png)
+![awk](awk(1).png)
+![awk](awk(2).png)
+![awk](awk(3).png)
+![awk](awk(4).png)
+![awk](awk(6).png)
+# SED 
+![sed](sed(2).png)
+![sed](sed(1).png)
+![sed](sed(2).png)
+![sed](sed(3).png)
+# working with 1/0
+![1/0](R.png)
+![1/0]()
+# How to save standard output 
+![standard output](SA.png)
+![standard output](SA(1).png)
+![standard output](SA(2).png)
+![standard output](SA(4).png)
+# Aliases
+![aliases](alias.png)
+![aliases](aliases(1).png)
+![aliases](aliases(3).png)
+# mkdir 
+![mkdir](mkdir.png)
+
+# WILDCARD 
+![wc](wildcard.png)
+![wc](wildcard(1).png)
+![wc](wildcard(3).png)
+![WC](wildcard(ex).png)
+
+# LS 
+![ls](ls.png)
 
 
 
